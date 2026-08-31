@@ -41,5 +41,5 @@ Analyzed **34,500 e-commerce transactions** using Python and Power BI to underst
 **Kerin P James**  
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-<img width="612" height="368" alt="image" src="https://github.com/user-attachments/assets/a87d853a-c7aa-41e6-9755-ba1e4dda766c" />
+
 

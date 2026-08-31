@@ -4,6 +4,10 @@
 
 Analyzed **34,500 e-commerce transactions** using Python and Power BI to understand sales performance, customer behavior, product profitability, and return patterns.
 
+## 🔗 Live Power BI Dashboard
+
+[View Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/41bb529b-42b2-4819-bbb9-8508a699de19/2048bd4b1396132ed085?experience=power-bi)
+
 ## 🛠️ Tools Used
 
 - Python
